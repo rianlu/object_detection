@@ -10,4 +10,4 @@
 
 到此应该就可以运行啦~！
 
-测试图片博客里面有，也可以点击<a href="https://link.jianshu.com?t=https%3A%2F%2Fpythonprogramming.net%2Fstatic%2Fdownloads%2Fmachine-learning-data%2Fobject-detection-macaroni.zip" target="_blank">这里</a>下载
+测试图片博客里面有，也可以点击<a href="https://pythonprogramming.net/static/downloads/machine-learning-data/object-detection-macaroni.zip" target="_blank">这里</a>下载
